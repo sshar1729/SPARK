@@ -1,6 +1,12 @@
 # SPARK
 
-Team Members: Shekhar Sharma, Royyam Saqib, Milton Arencibia, Mina Gong, Liwei Huang
+**Team Members**:
+[Shekhar Sharma]()•
+[Royyam Saqib]()•
+[Milton Arencibia]()•
+[Mina Gong]()•
+[Liwei Huang]()
+--
 
 Economic growth is typically measured by a country's Gross Domestic Product (GDP). A rising GDP often attracts multinational firms to invest, which in turn contributes further to economic expansion—creating a positive feedback loop that propels sustained growth. The performance and investment behavior of these companies can be reflected in their stock market trends, making stock performance a potential indicator of broader economic conditions.
 
