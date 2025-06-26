@@ -3,7 +3,6 @@
 **Team Members**:
 [Shekhar Sharma](https://github.com/sshar1729/sshar1729)•
 [Royyam Saqib]()•
-[Milton Arencibia]()•
 [Mina Gong]()•
 [Liwei Huang]()
 --
